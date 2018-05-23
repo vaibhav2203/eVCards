@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "969662912074",
+    "firebase_url": "https://evcards-ecc50.firebaseio.com",
+    "project_id": "evcards-ecc50",
+    "storage_bucket": "evcards-ecc50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969662912074:android:11c15e9df48fa03f",
+        "android_client_info": {
+          "package_name": "com.example.vaibhavmitaliitian.evcards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969662912074-i0p0mrlnloc82b4b1u808fikohkifqvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vaibhavmitaliitian.evcards",
+            "certificate_hash": "3cd7281916697789afb9036c7a5991a5fa32d492"
+          }
+        },
+        {
+          "client_id": "969662912074-o5lm5gsns1th8hf4ff80iuhksaepq589.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "969662912074-o5lm5gsns1th8hf4ff80iuhksaepq589.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw6GYCcTqE5yw0JBvORQIYB_PokcuR66M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969662912074-o5lm5gsns1th8hf4ff80iuhksaepq589.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
